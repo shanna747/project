@@ -6,4 +6,32 @@
   <li>I am looking to collaberate in projects involvong <strong>Python</strong> and <strong>Javascript</strong>.</li>
   <li>I am currently employed at a company in the TampaBay area as an Implementation Engineer</li>
   <li>In my spare time when I am not researching code I enjoy followinng up on the<strong>TampaBay Rays</strong> baseball stats or going to a local game.</li>
+  <br>
+
 <center>&#9734;You may reach me at 727smorris@gmail.com &#9734;</center>
+
+<h2>Active Clients and Projects</h2>
+<p>I've build locator and dealers sites for all clients listed below. Use the locator to search your area and dealer sites will display within the results.</p>
+<br>
+<ol>
+    nbsp;<li><a href="https://www.bigassfansdealers.com/">Towmaster Trailers</a></li>
+    nbsp;<li><a href="https://www.meyerdealers.com/">Meyer</a></li>
+    nbsp;<li><a href="https://www.bigassfansdealers.com/">Big Ass Fans</a></li>
+    nbsp;<li>Kubota</a></li>
+     nbsp;<li><a href="https://www.kubotadealers.co.uk/">Kubota United Kingdom</a></li>
+     nbsp;<li><a href="https://www.kubotahaendler.de/">Kubota Germany</a></li>
+     nbsp;<li><a href="https://www.dilerzykubota.pl/">Kubota Poland</a></li>
+     nbsp;<li><a href="https://www.kubotadistributor.se/">Kubota Sweden</a></li>
+     nbsp;<li><a href="https://www.kubotadistributor.fi/">Kubota</a></li>
+     nbsp;<li><a href="https://www.kubotadistributor.fi/">Kubota Finland</a></li>
+     nbsp;<li><a href="https://www.kubotahaendler.at/">Kubota Austria</a></li>
+    nbsp;<li>Mercury Marine</li>
+     nbsp;<li><a href="https://www.mercurymarine.ae/">Mercury Marine Arabic</a></li>
+     nbsp;<li><a href="https://www.mercurymarine.com.tr/">Mercury Marine Turkish</a></li>
+     nbsp;<li><a href="https://www.mercurymarine.om/">Mercury Marine Oman</a></li>
+     nbsp;<li><a href="https://www.mercurymarine.co.za/">Mercury Marine South Africa</a></li>
+    nbsp;<li><a href="https://locator.vac-con.com/">Vac-Con</a></li>
+    nbsp;<li><a href="https://www.championgeneratordealers.com/">Champion</a></li>
+    nbsp;<li><a href="https://www.strobeldealers.com/">Strobel</a></li>
+    nbsp;<li><a href="https://www.trexdealers.com/">Trex</a></li>
+</ol>
