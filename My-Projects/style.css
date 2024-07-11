@@ -1,0 +1,101 @@
+body {
+  padding: 0;
+  color: #000;
+  overflow-x: hidden;
+  margin: auto;
+}
+
+.main-container {
+  min-height: 100vh;
+  font-family: "Roboto";
+}
+
+.navigation {
+  height: 4rem;
+  width: 100%;
+  background-color: #34333a;
+  display: flex;
+  justify-content: flex-end;
+  margin: 0;
+  padding: 0;
+}
+
+.navigation a {
+  color: #fff;
+  padding: 1.5rem;
+  justify-content: center;
+  position: relative;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.box-container {
+  display: flex;
+}
+
+.left-box {
+height: 45rem;
+width: 74rem;
+background-color: #2E4053;
+display: flex;
+}
+
+.main-content {
+  position: relative;
+  height: 40rem;
+  width: 40rem;
+}
+
+h1 { 
+    font-size: 3rem;
+    padding: 1rem 2rem;
+    color: #fff;
+}
+
+.description {
+  height: 6rem;
+  width: 21rem;
+  color: #fff;
+  font: 400 1.2rem/1.4rem Roboto, sans-serif;
+  padding: 1rem 2rem;
+}
+
+img {
+  height: 25rem;
+  width: 25rem;
+  display: flex;
+  padding: 2rem 2rem 2rem 34rem;
+  margin: 2rem;
+}
+
+.name-wrapper {
+  display: flex;
+}
+
+.first-name {
+  padding: 1rem 2rem;
+  color: #AED6F1;
+  padding: 0 0 1rem 37rem;
+  font: 700 3rem/1.2rem Roboto, sans-serif;
+}
+
+.last-name {
+  /* padding: 1rem 2rem; */
+  color: #2E4053;  
+  padding: 0 0 1rem 3rem;
+  font: 700 3rem/1.2rem Roboto, sans-serif;
+}
+
+.right-box {
+  height: 45rem;
+  width: 55rem;
+  background-color: #AED6F1;
+  display: flex;
+  z-index: -1;
+}
+
+.footer {
+  position: absolute;
+  align-content: first baseline;
+  background-color: #efefef;
+}
