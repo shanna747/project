@@ -14,7 +14,7 @@
 <p>I've built the locator and dealers sites for all clients listed below. Use a locator to search your area and dealer results will display .</p>
 <br>
 <ul>
-    <li><a href="https://www.towmastertrailerdealers.com/">Towmaster Trailers</a></li>
+    <li><a href="https://www.towmastertrailerdealers.com/"wmaster Trailers</a></li>
     <li><a href="https://www.meyerdealers.com/">Meyer</a></li>
     <li><a href="https://www.bigassfansdealers.com/">Big Ass Fans</a></li>
      <li>Kubota</a></li>
