@@ -11,7 +11,7 @@
 <center>&#9734; You may reach me at 727smorris@gmail.com &#9734;</center>
 
 <h2>Clients & Projects</h2>
-<p>I build locator and dealers sites for all clients listed below. Use a locator to search your area and dealer results will display .</p>
+<p>I've built the locator and dealers sites for all clients listed below. Use a locator to search your area and dealer results will display .</p>
 <br>
 <ul>
     <li><a href="https://www.towmastertrailerdealers.com/">Towmaster Trailers</a></li>
