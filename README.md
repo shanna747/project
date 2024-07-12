@@ -1,4 +1,4 @@
-<h1> Hi my name is Shanna Morris. I'm an Implementation Engineer at <a href="https://www.powerchord.com/"><underline>Powerchord</underline></a> based out of Tampa Bay, Florida.</h1>
+<h1> Hi my name is Shanna Morris. I'm an Implementation Engineer at <a href="https://www.powerchord.com/">Powerchord</a> based out of Tampa Bay, Florida.</h1>
 <br>
 <h3>I am an SME configuring SAAS products and manage enterprise clients from kick off to delivery. </h3>
 <ul> 
