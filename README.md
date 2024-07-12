@@ -1,10 +1,10 @@
-<h1> Hi there, I'm Shanna Morris</h1>
+<h1> Hi my name is Shanna Morris. I am an Implementation Engineer at <a href="https://www.powerchord.com/">Powerchord</a> based out of Tampa Bay, Florida.</h1>
 <br>
-<h3>I am an SME configuring SAAS products and manage enterprise clients until delivery. </h3>
+<h3>I am an SME configuring SAAS products and manage enterprise clients from kick off to delivery. </h3>
 <ul> 
-  <li>I am currently working on code structure to enhance my technical skill set</li>
-  <li>I am looking to collaberate in projects involvong <strong>Python</strong> and <strong>Javascript</strong>.</li>
-  <li>I am currently employed at a company in the TampaBay area as an Implementation Engineer</li>
+  <li> &#x1F4BB; I am currently working on code structure to enhance my technical skill set</li>
+  <li>I am looking to collaberate in projects involving <strong>Python</strong> and <strong>Javascript</strong>.</li>
+  <li> &#x9918; I am currently employed at a company in the TampaBay area as an Implementation Engineer</li>
   <li>In my spare time when I am not researching code I enjoy followinng up on the<strong>TampaBay Rays</strong> baseball stats or going to a local game.</li>
   <br>
 
