@@ -13,26 +13,25 @@
 <h2>Clients & Projects</h2>
 <p>I've build locator and dealers sites for all clients listed below. Use the locator to search your area and dealer sites will display within the results.</p>
 <br>
-
-    <a href="https://www.towmastertrailerdealers.com/">Towmaster Trailers</a>
-    <a href="https://www.meyerdealers.com/">Meyer</a>
-    <a href="https://www.bigassfansdealers.com/">Big Ass Fans</a>
-    <a href="https://locator.vac-con.com/">Vac-Con</a>
-    <a href="https://www.championgeneratordealers.com/">Champion</a>
-    <a href="https://www.strobeldealers.com/">Strobel</a>
-    <a href="https://www.trexdealers.com/">Trex</a>
-    Kubota
-        <a href="https://www.kubotadealers.co.uk/">Kubota United Kingdom</a>
-        <a href="https://www.kubotahaendler.de/">Kubota Germany</a>
-        <a href="https://www.dilerzykubota.pl/">Kubota Poland</a>
-        <a href="https://www.kubotadistributor.se/">Kubota Sweden</a>
-        <a href="https://www.kubotadistributor.fi/">Kubota</a>
-        <a href="https://www.kubotadistributor.fi/">Kubota Finland</a>
-        <a href="https://www.kubotahaendler.at/">Kubota Austria</a>
-    Mercury Marine
-     <a href="https://www.mercurymarine.ae/">Mercury Marine Arabic</a>
-     <a href="https://www.mercurymarine.com.tr/">Mercury Marine Turkish</a>
-     <a href="https://www.mercurymarine.om/">Mercury Marine Oman</a>
-     <a href="https://www.mercurymarine.co.za/">Mercury Marine South Africa</a>
-  
-
+<ul>
+    <li><a href="https://www.towmastertrailerdealers.com/">Towmaster Trailers</a></li>
+    <li><a href="https://www.meyerdealers.com/">Meyer</a></li>
+    <li><a href="https://www.bigassfansdealers.com/">Big Ass Fans</a></li>
+     <li>Kubota</a></li>
+     <li><a href="https://www.kubotadealers.co.uk/">Kubota United Kingdom</a></li>
+     <li><a href="https://www.kubotahaendler.de/">Kubota Germany</a></li>
+     <li><a href="https://www.dilerzykubota.pl/">Kubota Poland</a></li>
+     <li><a href="https://www.kubotadistributor.se/">Kubota Sweden</a></li>
+     <li><a href="https://www.kubotadistributor.fi/">Kubota</a></li>
+     <li><a href="https://www.kubotadistributor.fi/">Kubota Finland</a></li>
+     <li><a href="https://www.kubotahaendler.at/">Kubota Austria</a></li>
+   <li>Mercury Marine</li>
+     <li><a href="https://www.mercurymarine.ae/">Mercury Marine Arabic</a></li>
+     <li><a href="https://www.mercurymarine.com.tr/">Mercury Marine Turkish</a></li>
+     <li><a href="https://www.mercurymarine.om/">Mercury Marine Oman</a></li>
+     <li><a href="https://www.mercurymarine.co.za/">Mercury Marine South Africa</a></li>
+   <li><a href="https://locator.vac-con.com/">Vac-Con</a></li>
+   <li><a href="https://www.championgeneratordealers.com/">Champion</a></li>
+   <li><a href="https://www.strobeldealers.com/">Strobel</a></li>
+   <li><a href="https://www.trexdealers.com/">Trex</a></li>
+</ul>
