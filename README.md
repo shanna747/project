@@ -4,8 +4,8 @@
 <ul> 
   <li> &#x1F4BB; I am currently working on code structure to enhance my technical skill set</li>
   <li>I am looking to collaberate in projects involving <strong>Python</strong> and <strong>Javascript</strong>.</li>
-  <li> &#9918; I am a full time remote employee </li>
-  <li>In my spare time when I am not researching code I enjoy followinng up on the<strong>TampaBay Rays</strong> baseball stats or going to a local game.</li>
+  <li> &#9918; I am a full time remote employee. </li>
+  <li>In my spare time when I am not researching code I enjoy following up on the<strong>TampaBay Rays</strong> baseball stats or going to a local game.</li>
   <br>
 
 <center>&#9734; You may reach me at 727smorris@gmail.com &#9734;</center>
