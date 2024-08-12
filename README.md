@@ -4,7 +4,7 @@
 <ul> 
   <li> &#x1F4BB; I am currently working on code structure to enhance my technical skill set</li>
   <li>I am looking to collaberate in projects involving <strong>Python</strong> and <strong>Javascript</strong>.</li>
-  <li> &#9918; I am currently employed at a company in the TampaBay area as an Implementation Engineer</li>
+  <li> &#9918; I am a full time remote employee </li>
   <li>In my spare time when I am not researching code I enjoy followinng up on the<strong>TampaBay Rays</strong> baseball stats or going to a local game.</li>
   <br>
 
